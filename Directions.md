@@ -36,7 +36,7 @@ A mechanical keyboard is a special type of keyboard that emphasizes user experie
 ### 4. Separate the  internals of your keyboard
 - The PCB will contain I/O connections that allow it to connect to other machines. There will likely be a 4 or 8 pin connector that interfaces the PCB to some output port, either micro USB or USB C. Disconnect this connection and any other structural connections to obtain the PCB as a single component.
 
-![alt text](PCB.jpeg "The backside of a keyboard PCB. Note the conical metal lumps: these are the soldered connections of the switches.")
+![alt text](https://github.com/jackveithPITT/Directions-Markdown/blob/main/PCB.jpg "The backside of a keyboard PCB. Note the conical metal lumps: these are the soldered connections of the switches.")
 
 ### 5. Desolder and remove switches
 - each switch on the PCB will have two corresponding solder connections on the back of the board, for the two pins on the switch. Heat the lump of solder and pump the liquid metal up. If done correctly there should be little to no excess metal on the contact point. desolder the other pin, remove the switch, and repeat.
@@ -44,7 +44,7 @@ A mechanical keyboard is a special type of keyboard that emphasizes user experie
 ### 6 and 7. Insert new switches and resolder
 - You can insert all switches at once and then solder all of them, or complete one at a time. Once a switch is inserted, move the solder wire close the the contact point and heat it. Pull away the wire quickly after a puddle of metal has formed, connecting the pin and contact point. Repeat for all pins.
 
-![alt text](soldering.jpeg "A soldering iron in use. The tip heats the soldering wire to melt the metal and connect the switch pins to the contact point.")
+![alt text](https://github.com/jackveithPITT/Directions-Markdown/blob/main/soldering.jpg "A soldering iron in use. The tip heats the soldering wire to melt the metal and connect the switch pins to the contact point.")
 
 ### 8. Verify connections
 - Check all connections to make sure the pin and contact point are properly connected. Resolder any connections that do not look adequate.
@@ -54,6 +54,8 @@ A mechanical keyboard is a special type of keyboard that emphasizes user experie
 
 ### 10. Test the keys
 - Plug your keyboard into the machine you will test it with. Use an online key checker to validate that all keys are working as intended. If a key fails to register a keystroke, recheck the solder as you may have created a faulty connection.
+
+![alt text](https://github.com/jackveithPITT/Directions-Markdown/blob/main/keychecker.png "A useful keychecker that allows you to test the functionality of your keys.")
 
 ### 11. Enjoy your new switches
 - As long as everything has been completed correctly, you now have what feels like a new keyboard. You may also have learned the valuable skill of soldering, along with learning about hardware internals. Use this information wisely and enjoy.
