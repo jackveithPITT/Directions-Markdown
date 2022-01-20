@@ -17,7 +17,8 @@ A mechanical keyboard is a special type of keyboard that emphasizes user experie
 - A soldering iron tends to operate at around 350 to 400 degrees Fahrenheit. Exhibit caution when the iron is hot and make sure it is truly off when you believe it to be.
 
 #### Notes:
-- a hotswappable keyboard makes changing keys trivially easy at the cost of a price premium. If your mechanical keyboard is hotswappable, you do not need this guide.
+- A hotswappable keyboard makes changing keys trivially easy at the cost of a price premium. If your mechanical keyboard is hotswappable, you do not need this guide.
+- Some useful information is stored in text that appears when each image is hovered over.
 
 
 ## Instructions
