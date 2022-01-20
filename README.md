@@ -6,11 +6,12 @@ A mechanical keyboard is a special type of keyboard that emphasizes user experie
 - Non-hotswappable mechanical keyboard
 - A set of replacement switches
 - Soldering kit
-  - a soldering kit should provide all necessary equipment including a soldering iron, solder wire, a pump, soldering iron stand
+  - a soldering kit should provide all necessary equipment including a soldering iron, solder wire, a pump, and a soldering iron stand
 - A means of grounding yourself
+  - grounding yourself occasionally will disperse static buildup and prevent accidental damage to components
 - Fume mask if not working in open air
 - protective eyewear
--online key checking program
+- online key checking program
 
 ### ⚠ CAUTION:
 - Soldering should ideally be performed outside as dangerous fumes are produced. If this is not possible, a fume mask should be utilized.
@@ -28,7 +29,7 @@ A mechanical keyboard is a special type of keyboard that emphasizes user experie
 ### 1. Prepare equipment
 - Make sure that all protective gear is being used correctly. Keep all materials easily in reach. Make sure that the soldering iron is not in a volatile location as it will be extremely hot during the process. Make sure you are comfortable using the iron and moving it from a working position to and from its stand.
 
-### 2. Determine how to open the keyboard.
+### 2. Determine how to open the keyboard
 - keyboards are kept together in various ways. Most commonly they are held together by finger clips or screws. Determine how your keyboard is constructed, either via its manual or by inspection.
 
 ### 3. Carefully open the keyboard
