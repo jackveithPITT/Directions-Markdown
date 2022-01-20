@@ -52,7 +52,7 @@ A mechanical keyboard is a special type of keyboard that emphasizes user experie
 - Check all connections to make sure the pin and contact point are properly connected. Resolder any connections that do not look adequate.
 
 ### 9. Reassemble the keyboard
-- Reassemble the keyboard by reversing the steps taken to disassemble iit. Make sure the I/O connection has been restored so that data can flow from the PCB into the corresponding machine.
+- Reassemble the keyboard by reversing the steps taken to disassemble it. Make sure the I/O connection disconnected in step 4 has been restored so that data can flow from the PCB into the corresponding machine.
 
 ### 10. Test the keys
 - Plug your keyboard into the machine you will test it with. Use an online key checker to validate that all keys are working as intended. If a key fails to register a keystroke, recheck the solder as you may have created a faulty connection.
