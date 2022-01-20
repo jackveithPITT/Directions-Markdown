@@ -43,7 +43,7 @@ A mechanical keyboard is a special type of keyboard that emphasizes user experie
 ### 5. Desolder and remove switches
 - each switch on the PCB will have two corresponding solder connections on the back of the board, for the two pins on the switch. Heat the lump of solder and pump the liquid metal up. If done correctly there should be little to no excess metal on the contact point. desolder the other pin, remove the switch, and repeat.
 
-### 6 and 7. Insert new switches and resolder
+### 6 and 7. Inserting new switches and resolder
 - You can insert all switches at once and then solder all of them, or complete one at a time. Once a switch is inserted, move the solder wire close the the contact point and heat it. Pull away the wire quickly after a puddle of metal has formed, connecting the pin and contact point. Repeat for all pins.
 
 ![alt text](https://github.com/jackveithPITT/Directions-Markdown/blob/main/soldering.jpg "A soldering iron in use. The tip heats the soldering wire to melt the metal and connect the switch pins to the contact point.")
