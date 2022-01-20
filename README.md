@@ -36,7 +36,7 @@ A mechanical keyboard is a special type of keyboard that emphasizes user experie
 - The internal hardware of a keyboard is very volatile. Make sure your keyboard is unplugged prior to opening it. Open your keyboard slowly and with caution, being careful not to damage the main green PCB or any connections.
 
 ### 4. Separate the  internals of your keyboard
-- The PCB will contain I/O connections that allow it to connect to other machines. There will likely be a 4 or 8 pin connector that interfaces the PCB to some output port, either micro USB or USB C. Disconnect this connection and any other structural connections to obtain the PCB as a single component.
+- The PCB will contain I/O connections that allow it to connect to other machines. There will likely be a 4 or 8 pin connector that interfaces the PCB to some output port, either micro USB or USB C. Disconnect this connection and any other structural supports to obtain the PCB as a single component.
 
 ![alt text](https://github.com/jackveithPITT/Directions-Markdown/blob/main/PCB.jpg "The backside of a keyboard PCB. Note the conical metal lumps: these are the soldered connections of the switches.")
 
